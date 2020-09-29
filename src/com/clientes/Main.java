@@ -39,6 +39,9 @@ public class Main {
                     break;
                 case "3":
                     break;
+                case "4":
+                    System.out.println("Muchas gracias por usar nuestra app, hasta luego");
+                    break;
                 default:
                     System.out.println("El valor ingresado no es una opcion de menu");
                     break;
